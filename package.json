@@ -23,7 +23,7 @@
     "gradient",
     "polygon"
   ],
-  "author": "Your Name",
+  "author": "Anho",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.12",
