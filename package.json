@@ -25,6 +25,10 @@
   ],
   "author": "Anho",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianho/tauzoe.git"
+  },
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@typescript-eslint/eslint-plugin": "^7.0.1",

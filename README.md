@@ -2,6 +2,8 @@
 
 A simple and beautiful seedable avatar generator that creates unique avatars with gradient backgrounds and rounded polygon shapes.
 
+![Tauzoe Avatar Examples](./assets/preview.png)
+
 ## Installation 
 
 ```bash
