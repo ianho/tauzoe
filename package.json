@@ -1,6 +1,6 @@
 {
   "name": "tauzoe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and beautiful avatar generator that creates unique avatars with gradient backgrounds and rounded polygon shapes",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
